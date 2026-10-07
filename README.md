@@ -10,4 +10,4 @@ A lightweight, concept-proving application that demonstrates how to interface wi
 ## 🛠️ Technical Stack
 * **Language:** Python
 * **Cloud API Engine:** Hugging Face Inference Architecture
-*
+
